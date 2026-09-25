@@ -1,0 +1,5 @@
+﻿Modelo,k_features,Features
+Regressao Logistica,12,Recency_FW | Monetary_FW | Ticket_Medio_FW | Produtos_Medios_FW | Freq_Mensal_FW | Dias_Entre_Compras_FW | Tempo_Cliente_FW | Perc_Desconto_FW | Num_Produtos_FW | Num_Categorias_FW | Num_Marcas_FW | Num_Tipos_FW
+SVM,5,Freq_Mensal_FW | Tempo_Cliente_FW | Num_Produtos_FW | Num_Categorias_FW | Num_Marcas_FW
+Decision Tree,7,Recency_FW | Freq_Mensal_FW | Dias_Entre_Compras_FW | Tempo_Cliente_FW | Num_Produtos_FW | Num_Categorias_FW | Num_Marcas_FW
+Random Forest,10,Recency_FW | Monetary_FW | Ticket_Medio_FW | Freq_Mensal_FW | Dias_Entre_Compras_FW | Tempo_Cliente_FW | Num_Produtos_FW | Num_Categorias_FW | Num_Marcas_FW | Num_Tipos_FW

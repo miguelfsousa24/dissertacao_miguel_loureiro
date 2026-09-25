@@ -1,0 +1,11 @@
+Datasets/
+vendas_16_26.csv
+df_linhas.csv
+df_vendas.csv
+df_clientes.csv
+df_clientes_enriquecido.csv
+dataset_modelo_compra.csv
+dataset_clusters_hierarquico.csv
+dataset_clusters_kmeans.csv
+dataset_clusters_rfm.csv
+dataset_features_clustering.csv

@@ -1,0 +1,5 @@
+﻿Modelo,Recall Medio,F1-Score Medio,ROC-AUC Medio
+SVM,0.7488,0.7133,0.8369
+Regressao Logistica,0.7352,0.7137,0.8581
+Random Forest,0.6506,0.6909,0.8619
+Decision Tree,0.6158,0.6125,0.6946

@@ -1,0 +1,5 @@
+﻿Modelo,Recall,F1-Score,ROC-AUC,Falsos Negativos,Falsos Positivos,Taxa FN,Taxa FP
+SVM,0.6848,0.6706,0.7396,52,59,31.52%,20.56%
+Regressao Logistica,0.6727,0.6768,0.7458,54,52,32.73%,18.12%
+Random Forest,0.6121,0.6756,0.7486,64,33,38.79%,11.50%
+Decision Tree,0.6061,0.639,0.7194,65,48,39.39%,16.72%

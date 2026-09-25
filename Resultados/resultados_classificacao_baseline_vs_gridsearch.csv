@@ -1,0 +1,5 @@
+﻿Modelo,Recall_Baseline,Recall_Grid,Δ Recall,F1_Grid,FN_Grid,FP_Grid
+Decision Tree,0.6061,0.8242,0.2181,0.6939,29,91
+SVM,0.6848,0.697,0.0122,0.6609,50,68
+Random Forest,0.6121,0.6909,0.0788,0.6726,51,60
+Regressao Logistica,0.6727,0.6727,0.0,0.6768,54,52
