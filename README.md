@@ -30,7 +30,7 @@ A metodologia adotada é a CRISP-DM (*Cross-Industry Standard Process for Data M
 ├── README.md                                             # Este ficheiro
 │
 ├── Dissertação/
-│   └── Dissertação_Miguel Loureiro_2220134.docx                  # Documento principal que inclui a Fase 1 CRISP-DM
+│   └── Dissertação_Miguel Loureiro_2220134.pdf                  # Documento principal que inclui a Fase 1 CRISP-DM
 │
 ├── Notebooks/
 │   ├── 1_Compreensão_de_Dados.ipynb                      # Fase 2 CRISP-DM
@@ -346,11 +346,11 @@ Alternativamente, os notebooks podem ser executados localmente (Jupyter Notebook
 
 ## 12. Autor
 
-**Miguel Loureiro | 2220134**
+**Miguel Filipe de Sousa Loureiro | 2220134**
 Mestrando em Ciência de Dados
 Universidade de Leiria e Oeste
 
-**Orientação:** Ricardo Malheiro
+**Orientação:** Professor Doutor Ricardo Manuel da Silva Malheiro
 
 ---
 
@@ -370,4 +370,4 @@ Os restantes ficheiros publicados no repositório (notebooks, modelos `.pkl` em 
 
 O acesso à base de dados original e aos ficheiros com dados pessoais pode ser solicitado ao autor, mediante acordo de confidencialidade com a empresa parceira.
 
-A necessidade de leitura formal do trabalho (justificações teóricas detalhadas, posicionamento na literatura, discussão integrada) pode ser satisfeita através da consulta do documento `Dissertacao_Miguel_Loureiro_2220134.docx`.
+A necessidade de leitura formal do trabalho (justificações teóricas detalhadas, posicionamento na literatura, discussão integrada) pode ser satisfeita através da consulta do documento `Dissertacao_Miguel_Loureiro_2220134.pdf`.
